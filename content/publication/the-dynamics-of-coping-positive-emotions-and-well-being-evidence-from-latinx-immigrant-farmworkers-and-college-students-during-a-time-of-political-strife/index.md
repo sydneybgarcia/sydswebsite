@@ -25,7 +25,7 @@ abstract: In the present article, we use daily diary methodology to investigate
   coping affects well-being and is one of the first studies of these dynamics in
   Latinx samples.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
