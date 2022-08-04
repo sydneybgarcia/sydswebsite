@@ -21,13 +21,13 @@ main:
     weight: 20
   - name: Resources
     url: '#pages'
-    weight: 30 #50
+    weight: 50 #50
   - name: Contact
     url: '#contact'
-    weight: 50 #60
+    weight: 40 #60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 40 #50
+    weight: 30 #50
