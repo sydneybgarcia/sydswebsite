@@ -24,7 +24,3 @@ When I was applying for graduate programs I relied heavily on the following guid
 ["So, you’re applying for a PhD in Psychology..." Guide](https://drive.google.com/file/d/1wHd_BRG3SHI-8sFS4E-0ilzp_IaKpQsd/view)
 
 [Kate Petrova's Graduate School Application Guide](https://www.kpetrova.com/resources)
-
-**Final Note**
-
-I am very open to talking with URM students who want advice on applying for graduate school in psychology. I know the process can be very stressful, and I am here to help! Please don't hesitate to reach out via email.
