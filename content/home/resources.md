@@ -25,4 +25,4 @@ When I was applying for graduate programs I relied heavily on the following guid
 
 **Final Note**
 
-I am very open to talking with underrepresented minority students who want advice on applying for graduate school. I know process can be very stressful, and I am here to help! Please don't hesitate to reach out via email.
+I am very open to talking with underrepresented minority students who want advice on applying for graduate school. I know the process can be very stressful, and I am here to help! Please don't hesitate to reach out via email.
