@@ -71,7 +71,3 @@ highlight_name: true
 ---
 
 I am a PhD student in social psychology at Princeton University. My primary advisor is the wonderful Dr. Betsy levy Paluck. I am broadly interested in.......
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. #Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
