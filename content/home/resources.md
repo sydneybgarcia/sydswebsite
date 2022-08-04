@@ -17,7 +17,7 @@ In the fall of 2020 I helped organize the Stanford Social Neuroscience Professio
 
 **Recommended Graduate Application Guides**
 
-When I was applying for graudate programs I relied heavily on the following guides. I hope they can aid in your application process as well! 
+When I was applying for graduate programs I relied heavily on the following guides. I hope they can aid in your application process as well! 
 
 ["So, you’re applying for a PhD in Psychology..." Guide](https://drive.google.com/file/d/1wHd_BRG3SHI-8sFS4E-0ilzp_IaKpQsd/view)
 
