@@ -1,5 +1,5 @@
 ---
-widget: resources
+widget: pages
 widget_id: resources
 headless: true
 weight: 100
