@@ -27,6 +27,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I recieved my BA in Psychology from the University of California, Berkeley (go bears!). At Berkeley, I conducted an honors thesis (advised by Dr. Dacher Keltner) on the relationship between news media consumption, stress, and well-being among Mexican farmworkers. After recieving my BA, I spent two years as a research coordinator in Dr. Jamil Zaki's Stanford Social Neuroscience Laboratory.
-
-Currently, I am a PhD student in social psychology at Princeton University. My primary advisor is Dr. Betsy Levy Paluck. I am interested in social norms/deviance, inequity, and field experiments. My goal is to conduct research that can inform institutional and public policies aimed at making spaces more equitable and inclusive for people from marginalized backgrounds.
+I am a PhD student in social psychology at Princeton University. My primary advisor is Dr. Betsy Levy Paluck. My research interests include social norms/deviance, inequity, identity development, and field experiments. My overarching goal is to conduct research that can inform institutional and public policies aimed at making spaces more equitable and inclusive for people from marginalized backgrounds. In one line of research I plan to ........
