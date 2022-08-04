@@ -29,7 +29,7 @@ content:
   #contact_links:
     - icon: twitter
       icon_pack: fab
-  #    name: DM Me
+      name: @sydneybgarcia
       link: https://twitter.com/sydneybgarcia
    # - icon: video
   #    icon_pack: fas
