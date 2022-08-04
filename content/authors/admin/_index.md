@@ -17,13 +17,13 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Social Norms and Deviance
-  - Inequity
-  - Media Effects
-  - Gender
-  - Identity Development
-  - Field Experiments
+#interests:
+ # - Social Norms and Deviance
+#  - Inequity
+#  - Media Effects
+ # - Gender
+#  - Identity Development
+ # - Field Experiments
 
 # Education to show in About widget
 education:
