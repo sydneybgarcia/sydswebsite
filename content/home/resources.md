@@ -13,11 +13,11 @@ design:
 ---
 **Talk Series**
 
-In the fall of 2020 I helped organize the Stanford Social Neuroscience Professional Development Talk Series. We recorded the series, which includes talks on how to apply for post-bacc jobs, how to do well on the GRE, applying to grauate school, and more! Check it out [here](https://www.ssnl.stanford.edu/resources).
+In the fall of 2020 I helped organize a Professional Development Talk Series for underrepresented minority students (URMs). We recorded the series, which includes talks on how to apply for post-bacc jobs, how to do well on the GRE, how to apply to graduate school, and more! Check it out [here](https://www.ssnl.stanford.edu/resources).
 
-**Recommended Graduate Application Guides**
+**Recommended Graduate School Application Guides**
 
-When I was applying for graduate programs I relied heavily on the following guides. I hope they can aid in your application process as well! 
+When I was applying for graduate programs I relied heavily on the following guides. I hope they can aid in your application process as well. 
 
 ["So, you’re applying for a PhD in Psychology..." Guide](https://drive.google.com/file/d/1wHd_BRG3SHI-8sFS4E-0ilzp_IaKpQsd/view)
 
@@ -25,4 +25,4 @@ When I was applying for graduate programs I relied heavily on the following guid
 
 **Final Note**
 
-I am very open to talking with underrepresented minority students who want advice on applying for graduate school. I know the process can be very stressful, and I am here to help! Please don't hesitate to reach out via email.
+I am very open to talking with URM students who want advice on applying for graduate school. I know the process can be very stressful, and I am here to help! Please don't hesitate to reach out via email.
