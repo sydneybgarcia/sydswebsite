@@ -3,7 +3,7 @@ title: "The Dynamics of Coping, Positive Emotions, and Well-being: Evidence from
   Latinx Immigrant Farmworkers and College Students During a Time of Political
   Strife."
 publication_types:
-  - "2"
+  - "0"
 authors:
   - Maria Monroy
   - admin
