@@ -19,7 +19,7 @@ organizations:
   - name: Princeton University
 education:
   courses:
-    - course: PhD in Social Psychology, expepcted 2027
+    - course: PhD in Social Psychology, expected 2027
       institution: Princeton University
     - course: BA in Psychology with Honors, 2020
       institution: University of California, Berkeley
