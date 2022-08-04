@@ -3,7 +3,7 @@ title: "The Dynamics of Coping, Positive Emotions, and Well-being: Evidence from
   Latinx Immigrant Farmworkers and College Students During a Time of Political
   Strife."
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Maria Monroy
   - admin
@@ -24,7 +24,7 @@ abstract: In the present article, we use daily diary methodology to investigate
   longitudinal well-being. This work provides evidence of one mechanism by which
   coping affects well-being and is one of the first studies of these dynamics in
   Latinx samples.
-draft: false
+draft: true
 featured: true
 image:
   filename: featured
