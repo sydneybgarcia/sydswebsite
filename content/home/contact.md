@@ -27,10 +27,10 @@ content:
  #   country: United States
  #   country_code: US
   #contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: @sydneybgarcia
-      link: https://twitter.com/sydneybgarcia
+  #  - icon: twitter
+  #    icon_pack: fab
+   #   name: @sydneybgarcia
+   #   link: https://twitter.com/sydneybgarcia
    # - icon: video
   #    icon_pack: fas
    #   name: Zoom Me
