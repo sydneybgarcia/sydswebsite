@@ -5,7 +5,7 @@ headless: true
 weight: 150
 title: Contact
 subtitle: null
-#content:
+content:
  # form:
  #   provider: netlify
  #   formspree:
