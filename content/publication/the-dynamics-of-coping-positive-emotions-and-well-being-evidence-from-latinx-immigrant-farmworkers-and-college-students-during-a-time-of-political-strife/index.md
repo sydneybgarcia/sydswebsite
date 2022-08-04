@@ -27,7 +27,7 @@ abstract: In the present article, we use daily diary methodology to investigate
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: true
 date: 2022-08-04T21:36:48.537Z
