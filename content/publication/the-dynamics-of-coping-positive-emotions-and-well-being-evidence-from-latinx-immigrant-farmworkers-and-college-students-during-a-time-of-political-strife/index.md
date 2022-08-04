@@ -24,11 +24,11 @@ abstract: In the present article, we use daily diary methodology to investigate
   longitudinal well-being. This work provides evidence of one mechanism by which
   coping affects well-being and is one of the first studies of these dynamics in
   Latinx samples.
-draft: true
+draft: false
 featured: true
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2022-08-04T21:36:48.537Z
 ---
