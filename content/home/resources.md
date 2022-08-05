@@ -13,7 +13,7 @@ design:
 ---
 **Talk Series**
 
-In the fall of 2020 I helped organize a Professional Development Talk Series for underrepresented minority students (URMs). We recorded the series, which includes talks on how to apply for post-bacc jobs, how to do well on the GRE, how to apply to graduate school, and more! Check it out [](https://www.ssnl.stanford.edu/resources)below.
+In the fall of 2020 I helped organize a Professional Development Talk Series for underrepresented minority students (URMs) interested in psychology. We recorded the series, which includes talks on how to apply for post-bacc jobs, how to do well on the GRE, how to apply to graduate school, and more! Check it out [](https://www.ssnl.stanford.edu/resources)below.
 
 [Professional Development Series](https://www.ssnl.stanford.edu/resources)
 
