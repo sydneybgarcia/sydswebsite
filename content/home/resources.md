@@ -19,7 +19,7 @@ In the fall of 2020 I helped organize a Professional Development Talk Series for
 
 **Recommended Graduate School Application Guides**
 
-Here are some great grad app guides! They helped me and I hope they can aid in your application process too.
+Here are some super useful grad app guides! 
 
 ["So, you’re applying for a PhD in Psychology..." Guide](https://drive.google.com/file/d/1wHd_BRG3SHI-8sFS4E-0ilzp_IaKpQsd/view)
 
