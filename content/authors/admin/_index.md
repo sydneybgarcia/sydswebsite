@@ -31,4 +31,4 @@ highlight_name: true
 
 
 
-I am a PhD student in social psychology at Princeton University. My research interests include social norms/deviance, inequity, identity development, and field experiments. Specifically, I am interested in exploring the causes and consequences of gender and racial disparities in occupations and interests. I aim to conduct research that can be used to inform institutional and public policies to reduce these disparities.
+I am a PhD student in social psychology at Princeton University working primarily with Dr. Betsy Levy Paluck. My research interests include social norms/deviance, inequity, identity development, and field experiments. Specifically, I am interested in exploring the causes and consequences of gender and racial disparities in occupations and interests. I aim to conduct research that can be used to inform institutional and public policies to reduce these disparities.
