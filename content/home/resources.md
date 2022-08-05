@@ -19,8 +19,10 @@ In the fall of 2020 I helped organize a Professional Development Talk Series for
 
 **Recommended Graduate School Application Guides**
 
-When I was applying for graduate programs I relied heavily on the following guides. I hope they can aid in your application process as well. 
+Here are some great grad app guides! They helped me and I hope they can aid in your application process too.
 
 ["So, you’re applying for a PhD in Psychology..." Guide](https://drive.google.com/file/d/1wHd_BRG3SHI-8sFS4E-0ilzp_IaKpQsd/view)
 
 [Kate Petrova's Graduate School Application Guide](https://www.kpetrova.com/resources)
+
+[Claire Whiting's Applying to Psych Grad Programs (in the US) Guide](https://www.clairewhiting.com/resources/applying-to-psych-phds)
