@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Sydney B. Garcia"
 role: PhD Student
 avatar_filename: avatar.jpg
 social:
