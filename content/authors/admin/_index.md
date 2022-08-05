@@ -14,7 +14,7 @@ social:
     link: https://scholar.google.com/citations?user=bYZLoJcAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sydney-garcia-679ab7246/
+    link: https://www.linkedin.com/in/sydney-b-g-62760398
 organizations:
   - name: Princeton University
 education:
