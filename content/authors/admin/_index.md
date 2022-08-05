@@ -27,4 +27,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a PhD student in social psychology at Princeton University. My primary advisor is Dr. Betsy Levy Paluck. My research interests include social norms/deviance, inequity, identity development, and field experiments. My overarching goal is to conduct research that can inform institutional and public policies aimed at making spaces more equitable and inclusive for people from marginalized backgrounds. In one line of research I plan to ........
+I am a PhD student in social psychology at Princeton University. My research interests include social norms/deviance, inequity, identity development, and field experiments. Specifically, I am interested in exploring the causes and consequences of gender and racial disparities in occupations and interests. I aim to conduct research that can be used to inform institutional and public policies to reduce these disparities.
+
+Advisor: <http://www.betsylevypaluck.com/>
