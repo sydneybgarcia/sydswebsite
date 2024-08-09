@@ -17,6 +17,9 @@ content:
 design:
   view: 3
 ---
+
+[Reddan, M., Garcia, S.B., Golarai, G., Eberhardt, J., Zaki, J. (in press). Film intervention increases empathic understanding of formerly incarcerated people and support for criminal justice reform. *Proceedings of the National Academy of Sciences*]
+
 [Monroy, M., Garcia, S.B., Mendoza-Denton, R., Keltner, D. (2021). The Dynamics of Coping, Positive Emotions, and Well-being: Evidence from Latinx Immigrant Farmworkers and College Students During a Time of Political Strife. *Emotion.*](https://psycnet-apa-org.stanford.idm.oclc.org/fulltext/2021-90810-001.pdf)
 
 [Zieve, G. G., Armstrong, C. A., Richardson, I. M., Garcia, S. B., & Harvey, A. G. (2022). Measuring 
