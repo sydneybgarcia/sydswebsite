@@ -38,6 +38,4 @@ I am broadly interested in developing and testing psychological theories about s
 
 While my current work focuses on signaling norms (e.g., norms of how group members should look), I am also interested in the study of moral norms (e.g., norms about the acceptability of violence), health norms (e.g., norms around the use of substances), and relationship norms (e.g., norms surrounding conversation and intimacy). 
 
-Before becoming a graduate student at Princeton I was a research coordinator in the Stanford Social Neuroscience Lab. I received my BA in Psychology with a minor in Gender and Women's Studies from UC Berkeley (go bears!). 
-
 Academic Advisor: http://www.betsylevypaluck.com/ 
