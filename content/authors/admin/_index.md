@@ -27,10 +27,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello!
-
-
-
+title: Hello!
 I am a 3rd year PhD student at Princeton University in social psychology and the joint degree program in social policy. I am broadly interested in understanding how social norms (the well-known rules that govern what behavior is considered common and appropriate in a group) change. For example, when is exposure to the deviant behavior of a group member effective at changing observers perceptions of norms, and their behavior? Currently I use lab experiments to study such questions, but I am also interested in agent-based modeling and field experimentation. While my current work focuses on gendered appearance norms, I am also interested in norms about the acceptability of violence, norms about use of illegalized substances, and relationship norms such as those surrounding conversation and intimacy.
 
 Academic Advisor: http://www.betsylevypaluck.com/ 
