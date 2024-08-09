@@ -27,7 +27,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Welcome!
+Hello!
+
+
+
 
 I am a 3rd year PhD student at Princeton University in social psychology and the joint degree program in social policy. 
 
