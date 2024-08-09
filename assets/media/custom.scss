@@ -1,14 +1,9 @@
-/* Centering the title, role, and avatar */
-#about .author-info {
+/* Centering the text and content within the specified class */
+.text-center {
     text-align: center;
 }
 
-#about .author-info h1,
-#about .author-info p {
-    margin: 0 auto;
-}
-
-#about .author-info .author-avatar {
+.text-center .author-avatar {
     display: block;
     margin: 0 auto;
 }
