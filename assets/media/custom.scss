@@ -1,0 +1,14 @@
+/* Centering the title, role, and avatar */
+#about .author-info {
+    text-align: center;
+}
+
+#about .author-info h1,
+#about .author-info p {
+    margin: 0 auto;
+}
+
+#about .author-info .author-avatar {
+    display: block;
+    margin: 0 auto;
+}
