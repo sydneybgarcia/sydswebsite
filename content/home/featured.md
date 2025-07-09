@@ -18,7 +18,7 @@ design:
   view: 3
 ---
 
-Pei, R., Grayson, S., Appel, R., Soh, S., Garcia, S. B., Bouwer, A., Huang, E., Jackson, M., Harari, G. & Zaki, J. (in press). Bridging the Empathy Gap: Enhancing Empathy Perceptions Fosters Social Connection. Nature Human Behaviour.
+Pei, R., Grayson, S., Appel, R., Soh, S., Garcia, S. B., Bouwer, A., Huang, E., Jackson, M., Harari, G. & Zaki, J. (in press). Bridging the Empathy Gap: Enhancing Empathy Perceptions Fosters Social Connection. *Nature Human Behaviour.*
 
 [Reddan, M., Garcia, S.B., Golarai, G., Eberhardt, J., Zaki, J. (2024). Film intervention increases empathic understanding of formerly incarcerated people and support for criminal justice reform. *Proceedings of the National Academy of Sciences*](https://www.pnas.org/doi/pdf/10.1073/pnas.2322819121)
 
